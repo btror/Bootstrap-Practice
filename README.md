@@ -2,10 +2,10 @@
 Practice with the Bootstrap framework. 
 
 grids
-<p><img src="indexpage.JPG" width="650" height="350"></p>
+<p><img src="indexpage.JPG" width="750" height="400"></p>
 buttons
-<p><img src="buttonpage.JPG" width="650" height="350"></p>
+<p><img src="buttonpage.JPG" width="750" height="400"></p>
 tables
-<p><img src="tablepage.JPG" width="650" height="350"></p>
+<p><img src="tablepage.JPG" width="750" height="400"></p>
 carousels
-<p><img src="carouselpage.JPG" width="650" height="350"></p>
+<p><img src="carouselpage.JPG" width="750" height="400"></p>
