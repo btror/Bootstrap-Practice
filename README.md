@@ -1,5 +1,5 @@
 # Bootstrap-Practice
-Practice with the Bootstrap framework. 
+Practice with the Bootstrap framework. My goal was to simply mess around with the framework. 
 
 grids
 <p><img src="indexpage.JPG" width="750" height="400"></p>
