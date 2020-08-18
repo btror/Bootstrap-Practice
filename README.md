@@ -2,7 +2,7 @@
 Practice with the Bootstrap framework. 
 
 grids
-<p><img src="gridpage.JPG" width="550" height="300"></p>
+<p><img src="indexpage.JPG" width="550" height="300"></p>
 
 buttons
 <p><img src="buttonpage.JPG" width="550" height="300"></p>
